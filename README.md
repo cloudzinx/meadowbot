@@ -21,3 +21,5 @@ sudo npm install
 ```
 node .
 ```
+# Uso:
+![Gravar_select-area_20210526181700-_online-video-cutter com_](https://user-images.githubusercontent.com/84600147/119733103-6ddfa800-be4f-11eb-9c30-23fcab2d8169.gif)
