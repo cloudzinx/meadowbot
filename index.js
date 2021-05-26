@@ -42,7 +42,13 @@ bot.on('message', msg => {
         .catch(console.error);
 
     }
-    
+//Se der o comando de sair...
+    if(msg.content === 'comando de sair'){
+//Sair do Canal de Voz.
+      msg.guild.me.voice.channel.leave()
   }
+    }
+  }
+  
   
 bot.login('token do seu bot')
